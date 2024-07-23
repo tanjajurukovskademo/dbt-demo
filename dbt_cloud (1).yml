@@ -1,0 +1,14 @@
+version: "1"
+context:
+  active-host: "lv160.us1.dbt.com"
+  active-project: "70403103945889"
+projects:
+  - project-name: "Partner Connect Trial"
+    project-id: "70403103945889"
+    account-name: "tanjacimevska"
+    account-id: "70403103939385"
+    account-host: "lv160.us1.dbt.com"
+    token-name: "cloud-cli-8788"
+    token-value: "dbtu_bi9mXSojPwqAaexWAFzxW1SPoIbOJdx_7AEIBYqsUCgq7xaLmc"
+
+
